@@ -1,0 +1,8 @@
+* text=auto
+
+# Web and text files
+*.{html,css,js,ts,tsx,jsx,json,md,yml,yaml,txt,svg} text eol=lf
+
+# Binary files
+*.{png,jpg,jpeg,gif,ico,woff,woff2,ttf,eot,otf} binary
+*.{zip,tar,gz,rar,7z} binary
